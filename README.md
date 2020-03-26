@@ -24,7 +24,7 @@ Add this to your `pom.xml`:
 
 <dependencies>
   <dependency>
-    <groupId>in.tazj</groupId>
+    <groupId>io.github.tazjin</groupId>
     <artifactId>vavr-matchers</artifactId>
     <version>1.2</version>
     <scope>test</scope>
